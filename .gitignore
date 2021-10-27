@@ -1,0 +1,7 @@
+/.dist
+/.idea
+/combine_layouts.py
+/events.py
+/main.py
+/try.py
+/venv
